@@ -174,6 +174,5 @@ Batch scripts are the simplest automation Windows offers: a plain text file of c
 
 ## Contributing
 
-Ideas and improvements are welcome. Open an issue or a pull request. Please don't include any real names, school names, or credentials.
-
-Happy teaching! 🎓
+Ideas and improvements are welcome. Open an issue or a pull request. Please don't include any real names, school names, or credentials. 
+Connect with me on [DeniCastro](https://github.com/DeniCastro).
